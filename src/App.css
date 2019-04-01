@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+
+.common-labeled-input-wrapper{
+  display: flex;
+}
+
+.common-labeled-input-input{
+  margin: 10px;
+}
+
+.common-labeled-input-label{
+  margin: 10px;
+}
